@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Kamil, I come from Poland and I am learning code.
+I Love football and music
 <!--
 **linka351/linka351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ![AVOCADOO!](/avocado-gf76a331d2_640.jpg);
+
+link to my portfolio https://linka351.github.io/Portfolio/
+
+
