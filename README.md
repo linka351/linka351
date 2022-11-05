@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![AVOCADOO!](/photo/avocado-gf76a331d2_640.jpg);
+![AVOCADOO!](avocado-gf76a331d2_640.jpg);
