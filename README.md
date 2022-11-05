@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text]("https://github.com/linka351/linka351/blob/main/Zdj%C4%99cie/avocado-gf76a331d2_640.jpg")
+![alt text]("https://github.com/linka351/linka351/blob/main/Zdj%C4%99cie/avocado-gf76a331d2_640.jpg");
